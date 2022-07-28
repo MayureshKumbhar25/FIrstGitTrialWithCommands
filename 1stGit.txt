@@ -1,2 +1,3 @@
  this is first git trial 
-hello maza dasrhu
+hello lavdu dasrhu
+ok ok
